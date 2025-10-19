@@ -96,6 +96,6 @@ The block chain:
 ---
 
 ## Technologies Used
-- Java 17
+- Java
 - Gson (Google)
 - SHA-256 Hashing
